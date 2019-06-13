@@ -12,4 +12,4 @@ client.user.setGame(`M♥بحبك`,"http://twitch.tv/M♥بحبك")
 client.user.setStatus("dnd")
 });
 
-client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
+client.login("NTAwNjkwMDI5ODE1OTIyNjg5.XPT7Ig.X8Aol18VT9rJNIdsYmh9kGTDj24");// لا تغير فيها شيء
